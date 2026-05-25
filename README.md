@@ -199,8 +199,8 @@ The agent is trained on a **Markov Decision Process (MDP)**:
 | Name | Roll Number | Role |
 |------|-------------|------|
 | **Rahul Biswas** | BWU/BCA/23/224 | Lead Developer |
-| **Sourav** | — | BWU/BCA/23/234 |
-| **Arpita** | — | BWU/BCA/23/190 |
+| **Sourav** | BWU/BCA/23/234 | Member |
+| **Arpita** | BWU/BCA/23/190 | Member |
 
 **Department of Computational Sciences**
 **Brainware University** — BCA 6th Semester Project
